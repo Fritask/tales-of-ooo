@@ -6,7 +6,7 @@ namespace TalesOfOoo.Content.Items.Weapons
 {
     public class FinnSword : ModItem
     {
-        // The Display Name and Tooltip of this item can be edited in the Localization/en-US_Mods.TalesOfOoo.hjson file.
+        // The Display Name and Tooltip of this item can be edited in the Localization/en-US_Mods.TalesOfOoo.hjson file. teste
         private int cooldownDuration = 600; // Duração da recarga em frames (60 frames = 1 segundo)
         private int cooldownTimer = 0; // Contador de tempo de recarga
 
