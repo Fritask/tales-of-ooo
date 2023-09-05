@@ -4,7 +4,7 @@ using Terraria.ModLoader;
 
 namespace TalesOfOoo.Content.Items.Weapons
 {
-    public class Scarlet : ModItem
+    public class ScarletSword : ModItem
     {
         // The Display Name and Tooltip of this item can be edited in the Localization/en-US_Mods.TalesOfOoo.hjson file.
 

@@ -12,9 +12,14 @@ namespace TutorialMod.Common.Players
         public override IEnumerable<Item> AddStartingItems(bool mediumCoreDeath)
         {
             return new[] {
-                new Item(ModContent.ItemType<Scarlet>()),
+                new Item(ModContent.ItemType<ScarletSword>()),
                 //new Item(ItemID.GoldBroadsword, 1),
             };
         }
+
+        //public override void PreUpdate()
+        //{
+        //    if ()
+        //}
     }
 }
