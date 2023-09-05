@@ -1,0 +1,3 @@
+displayName = Tales Of Ooo: The Adventure Time Mod
+author = Fritask, 
+version = 0.1
