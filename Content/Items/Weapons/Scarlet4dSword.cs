@@ -51,7 +51,7 @@ namespace TalesOfOoo.Content.Items.Weapons
                 else
                 {
                     cooldownTimer = cooldownDuration;
-                    Item.shoot = 950;
+                    Item.shoot = ProjectileID.PrincessWeapon;
                     Item.shootSpeed = 5;
                     Item.autoReuse = true;
                     Item.useTurn = true;
@@ -60,7 +60,7 @@ namespace TalesOfOoo.Content.Items.Weapons
             }
             else
             {
-                Item.shoot = 405;
+                Item.shoot = ProjectileID.FlaironBubble;
                 Item.shootSpeed = 12;
             }
 
