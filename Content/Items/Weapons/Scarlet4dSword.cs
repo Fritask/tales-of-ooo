@@ -24,7 +24,7 @@ namespace TalesOfOoo.Content.Items.Weapons
             Item.height = 40;
             Item.useTime = 21;
             Item.useAnimation = 21;
-            Item.useStyle = 1;
+            Item.useStyle = ItemUseStyleID.Swing;
             Item.knockBack = 5;
             Item.value = 16000;
             Item.rare = 4;

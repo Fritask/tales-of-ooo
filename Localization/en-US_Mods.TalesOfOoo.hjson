@@ -15,6 +15,16 @@ Items: {
 		DisplayName: 4D Sword
 		Tooltip: ""
 	}
+
+	RootSword: {
+		DisplayName: Root Sword
+		Tooltip: ""
+	}
+
+	DemonBloodSword: {
+		DisplayName: Demon Blood Sword
+		Tooltip: ""
+	}
 }
 
 NPCs: {
