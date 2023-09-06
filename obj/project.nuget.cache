@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "TdqFw10h5IMufLnRqFPqJ15kQ8/Nw3AVpUpRgfAoRHZWwgUmucNrBGQx31eeXoUm4w/yAR/5pPGaU8nxLa185Q==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\guimo\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TalesOfOoo\\TalesOfOoo.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote tModLoader.CodeAssist. Não existe nenhum pacote com esta ID nas origens: Microsoft Visual Studio Offline Packages",
+      "libraryId": "tModLoader.CodeAssist",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
