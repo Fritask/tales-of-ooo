@@ -51,3 +51,5 @@ NPCs: {
 
 	ExampleCustomAISlimeNPC.DisplayName: Example Custom A I Slime N P C
 }
+
+Tiles.IceTest.MapEntry: Ice Test
